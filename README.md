@@ -31,7 +31,7 @@ The wafer component library based on Vue 3 provides a versatile and customizable
 
 ## 🎬 Demo
 
-1. [Online Storybook](https://vue-wafer-painter.justinxiao.app/)
+1. [Online Storybook](https://vue-wafer-painter.vercel.app/)
 
 2. [Try example in repo](https://github.com/ttpss930141011/vue-wafer-painter/tree/main/example)
 

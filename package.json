@@ -12,7 +12,7 @@
   "bugs": {
     "url": "https://github.com/ttpss930141011/vue-wafer-painter/issues"
   },
-  "homepage": "https://vue-wafer-painter.justinxiao.app",
+  "homepage": "https://vue-wafer-painter.vercel.app",
   "scripts": {
     "dev": "vite",
     "build": "run-p type-check build-only",
