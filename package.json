@@ -56,7 +56,7 @@
   },
   "devDependencies": {
     "@actions/github": "6.0.0",
-    "@octokit/core": "6.1.2",
+    "@octokit/core": "7.0.8",
     "@rushstack/eslint-patch": "1.10.3",
     "@storybook/addon-docs": "8.1.2",
     "@storybook/addon-essentials": "8.1.2",
