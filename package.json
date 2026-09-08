@@ -50,9 +50,9 @@
     "access": "public"
   },
   "dependencies": {
-    "@floating-ui/vue": "1.1.2",
-    "lodash": "4.17.21",
-    "vue": "3.4.34"
+    "@floating-ui/vue": "1.1.11",
+    "lodash": "4.18.1",
+    "vue": "3.5.42"
   },
   "devDependencies": {
     "@actions/github": "6.0.0",
